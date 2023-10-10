@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "email": "parikshet@99acres.com",
+    "password": "parikshet"
+  },
+  {
+    "id": 2,
+    "email": "janukeesh@99acres.com",
+    "password": "janukeesh"
+  },
+  {
+    "id": 3,
+    "email": "sahil@99acres.com",
+    "password": "sahil"
+  }
+]

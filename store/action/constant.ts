@@ -1,0 +1,8 @@
+// Login
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+
+// Properties
+export const FETCH_PROPERTIES_SUCCESS = 'FETCH_PROPERTIES_SUCCESS';
+export const FETCH_PROPERTIES_FAILED = 'FETCH_PROPERTIES_FAILED';
