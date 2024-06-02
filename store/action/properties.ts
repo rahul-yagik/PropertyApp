@@ -5,7 +5,7 @@ import {AnyAction, Dispatch} from 'redux';
 export const propertiesAction = () => async (dispatch: Dispatch<AnyAction>) => {
   try {
     const response = await axios.get(
-      'http://172.16.73.29:5000/api/v1/properties',
+      'http://172.16.73.20:5000/api/v1/properties',
     );
 
     return dispatch({

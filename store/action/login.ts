@@ -14,7 +14,7 @@ export const loginAction =
   (enteredData: userData) => async (dispatch: Dispatch<AnyAction>) => {
     try {
       const response = await axios.post(
-        'http://172.16.73.29:5000/api/v1/properties/login',
+        'http://172.16.73.20:5000/api/v1/properties/login',
         enteredData,
       );
 
